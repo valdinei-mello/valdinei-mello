@@ -2,7 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valdinei-mello-361813135/)
 
-![Valdinei GitHub stats](https://github-readme-stats.vercel.app/api?username=valdinei-mello&show_icons=true&theme=onedark)
+![Valdinei GitHub stats](https://github-readme-stats.vercel.app/api?username=valdinei-mello&show_icons=true&theme=blue-green)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valdinei-mello&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
